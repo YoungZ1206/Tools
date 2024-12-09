@@ -1,2 +1,5 @@
 DOMAIN,h.trace.qq.com
 DOMAIN,otheve.beacon.qq.com
+DOMAIN,api.liquidlink.cn
+//telegram
+IP-CIDR,95.161.76.100/31,no-resolve 
