@@ -1,5 +1,8 @@
 DOMAIN,h.trace.qq.com
 DOMAIN,otheve.beacon.qq.com
 DOMAIN,api.liquidlink.cn
+DOMAIN,ali-stats.jpush.cn
+DOMAIN,stats.jpush.cn
+DOMAIN,othstr.beacon.qq.com
 //telegram
 IP-CIDR,95.161.76.100/31,no-resolve 
