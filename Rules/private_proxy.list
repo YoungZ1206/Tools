@@ -1,12 +1,8 @@
-# > Other
 DOMAIN,app-alpha.bytedance.net
 DOMAIN,reckon.bytedance.net
 DOMAIN,whois.arin.net
 DOMAIN-SUFFIX,canarymail.io
 DOMAIN-SUFFIX,fotmob.com
-# > Sileo Repo
-DOMAIN-SUFFIX,repo.daodao.line.pm
-DOMAIN-SUFFIX,apt.tinyapps.cn
 DOMAIN-SUFFIX,getzbra.com
 DOMAIN-SUFFIX,chariz.com
 DOMAIN-SUFFIX,yourepo.com
@@ -49,3 +45,22 @@ DOMAIN-SUFFIX,repo.anthopak.dev // Added for: repo.anthopak.dev:443
 DOMAIN-SUFFIX,repo.anamy.gay // Added for: repo.anamy.gay:443
 DOMAIN-SUFFIX,alo.works // Added for: alo.works:443
 DOMAIN-SUFFIX,apt.procurs.us // Added for: apt.procurs.us:443
+DOMAIN-SUFFIX,iosios.net
+DOMAIN-SUFFIX,stardock.com
+DOMAIN-SUFFIX,countdownmail.com
+DOMAIN-SUFFIX,thebigboss.org
+DOMAIN-SUFFIX,hacx.org
+DOMAIN-SUFFIX,alfhaily.me
+DOMAIN-SUFFIX,giffgaff.design
+DOMAIN-SUFFIX,theathletic.com
+DOMAIN-SUFFIX,giffgaff.com
+DOMAIN-SUFFIX,cordial.com
+DOMAIN-SUFFIX,verisign-grs.com
+DOMAIN-SUFFIX,publicinterestregistry.org
+DOMAIN-SUFFIX,antti.codes
+DOMAIN-SUFFIX,canister.me
+DOMAIN-SUFFIX,iana.org
+DOMAIN-SUFFIX,browserleaks.net
+IP-CIDR,216.239.35.8/32,no-resolve
+IP-CIDR,216.239.35.0/32,no-resolve
+IP-CIDR,216.239.35.4/32,no-resolve
