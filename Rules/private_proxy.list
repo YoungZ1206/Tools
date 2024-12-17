@@ -1,6 +1,7 @@
 DOMAIN,app-alpha.bytedance.net
 DOMAIN,reckon.bytedance.net
 DOMAIN,whois.arin.net
+DOMAIN,api.immtel.co
 DOMAIN-SUFFIX,canarymail.io
 DOMAIN-SUFFIX,fotmob.com
 DOMAIN-SUFFIX,getzbra.com
@@ -61,6 +62,7 @@ DOMAIN-SUFFIX,antti.codes
 DOMAIN-SUFFIX,canister.me
 DOMAIN-SUFFIX,iana.org
 DOMAIN-SUFFIX,browserleaks.net
+DOMAIN-SUFFIX,altrojan.comorg.us.kg
 IP-CIDR,216.239.35.8/32,no-resolve
 IP-CIDR,216.239.35.0/32,no-resolve
 IP-CIDR,216.239.35.4/32,no-resolve
