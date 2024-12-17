@@ -33,6 +33,7 @@ DOMAIN,rpt.gdt.qq.com,{{{拦截规则}}}
 DOMAIN,win.gdt.qq.com,{{{拦截规则}}} 
 DOMAIN,ipv4.gdt.qq.com,{{{拦截规则}}} 
 DOMAIN,v6ii.gdt.qq.com,{{{拦截规则}}} 
+AND, ((PROTOCOL, STUN), (DOMAIN-KEYWORD, bilibili.)), REJECT
 [Header Rewrite]
 # changeUA
 {{{禁用重写}}}request ^https?:\/\/kelee\.one(\/.*) header-replace User-Agent "Loon/784 CFNetwork/1408.0.4 Darwin/22.5.0"
