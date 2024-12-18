@@ -67,5 +67,13 @@ DOMAIN-SUFFIX,softwarehtec.com
 DOMAIN-SUFFIX,firecore.com
 DOMAIN-SUFFIX,my.g2.com
 DOMAIN-SUFFIX,reflix.top
-IP-CIDR,149.88.82.119/32,no-resolve
+DOMAIN-SUFFIX,hcaptcha.com 
+DOMAIN-SUFFIX,xns.my.id
+DOMAIN-SUFFIX,font.im
+DOMAIN-SUFFIX,mitce.com
+DOMAIN-SUFFIX,gnome.org
+DOMAIN-SUFFIX,mitce.com
+DOMAIN-SUFFIX,dlj.tf
 IP-CIDR,216.239.32.0/19,no-resolve
+IP-CIDR,149.88.82.119/32,no-resolve 
+
