@@ -10,4 +10,9 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,sonkwo.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qlogo.cn
-IP-CIDR,17.253.114.35/32,no-resolve
+IP-CIDR,8.217.246.48/32,no-resolve
+IP-CIDR,45.249.245.247/32,no-resolve
+IP-CIDR,148.178.21.17/32,no-resolve
+DOMAIN-SUFFIX,xns.my.id 
+DOMAIN-SUFFIX,xns.one 
+DOMAIN-SUFFIX,novaxns.one
