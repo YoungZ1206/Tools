@@ -4,5 +4,7 @@ DOMAIN,api.liquidlink.cn
 DOMAIN,ali-stats.jpush.cn
 DOMAIN,stats.jpush.cn
 DOMAIN,othstr.beacon.qq.com
+DOMAIN,hmma.baidu.com
+DOMAIN,gd-stats.jpush.cn
 //telegram
 IP-CIDR,95.161.76.100/31,no-resolve 
