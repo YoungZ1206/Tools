@@ -74,6 +74,21 @@ DOMAIN-SUFFIX,mitce.com
 DOMAIN-SUFFIX,gnome.org
 DOMAIN-SUFFIX,mitce.com
 DOMAIN-SUFFIX,dlj.tf
+DOMAIN-SUFFIX,sduavia.org 
+DOMAIN-SUFFIX,txh031.com 
+DOMAIN,functions.fileball.app 
+DOMAIN,static.cloudflareinsights.com 
+DOMAIN-SUFFIX,198432.xyz 
+DOMAIN-SUFFIX,fancyme.xyz 
+DOMAIN,image.tmdb.org 
+DOMAIN-SUFFIX,snrcdn.net 
+DOMAIN,whois.ovh.com 
+DOMAIN-SUFFIX,g2a.com 
+DOMAIN-SUFFIX,sendtric.com 
+DOMAIN,snrlink-page.com 
+DOMAIN-SUFFIX,iva-api.com
+DOMAIN-SUFFIX,minutemediacdn.com
+DOMAIN-SUFFIX,revenuecat.com
 IP-CIDR,216.239.32.0/19,no-resolve
 IP-CIDR,149.88.82.119/32,no-resolve 
 
