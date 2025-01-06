@@ -10,6 +10,8 @@ DOMAIN,video-cn.snssdk.com,DIRECT
 DOMAIN,dig.bdurl.net,DIRECT
 DOMAIN,is.snssdk.com,DIRECT
 DOMAIN,i.snssdk.com,DIRECT
+DOMAIN-SUFFIX,thing.miniapp.com,DIRECT
+DOMAIN-SUFFIX,sailormoon.tuya.com,DIRECT
 # 可放行规则 主要是奖励视频
 DOMAIN,ii.gdt.qq.com,{{{拦截规则}}} 
 DOMAIN,adsmind.gdtimg.com,{{{拦截规则}}} 
@@ -35,6 +37,20 @@ DOMAIN,ipv4.gdt.qq.com,{{{拦截规则}}}
 DOMAIN,v6ii.gdt.qq.com,{{{拦截规则}}} 
 AND, ((PROTOCOL, STUN), (DOMAIN-KEYWORD, bilibili.)), REJECT
 IP-CIDR,17.0.0.0/8,Apple,no-resolve
+DOMAIN,kr.pro.xns.one,SMART-KR
+DOMAIN,us.novaxns.one,SMART-US 
+DOMAIN,sg.kahkee.xns.one,SMART-SG
+DOMAIN,jp.kahkee.xns.one,SMART-JP
+DOMAIN,jp.beta.xns.one,SMART-JP
+DOMAIN,jp.pro.xns.one,SMART-JP
+DOMAIN,hk.raito.xns.one,SMART-HK
+DOMAIN,hk1.pro.xns.one,SMART-HK
+DOMAIN,hk.pro.xns.one,SMART-HK
+DOMAIN,hk.beta.xns.one,SMART-HK
+DOMAIN,hk.kahkee.xns.one,SMART-HK
+DOMAIN,dash.xns.one,Proxy
+DOMAIN-SUFFIX,xns.my.id,Proxy
+DOMAIN-SUFFIX,novaxns.one,Proxy
 [Header Rewrite]
 # changeUA
 {{{禁用重写}}}request ^https?:\/\/kelee\.one(\/.*) header-replace User-Agent "Loon/784 CFNetwork/1408.0.4 Darwin/22.5.0"
