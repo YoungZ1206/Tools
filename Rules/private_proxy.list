@@ -91,6 +91,21 @@ DOMAIN-SUFFIX,minutemediacdn.com
 DOMAIN-SUFFIX,revenuecat.com
 DOMAIN-SUFFIX,cdn-msp.jmapiproxy3.cc
 DOMAIN,shop.yuebing.xyz
+DOMAIN-SUFFIX,craft.do
+DOMAIN-SUFFIX,performgroup.com
+DOMAIN-SUFFIX,kaspersky.com
+DOMAIN-SUFFIX,oyunfor.com
+DOMAIN-SUFFIX,onesignal.com
+DOMAIN-SUFFIX,msuv.net
+DOMAIN-SUFFIX,attemptd.work
+DOMAIN-SUFFIX,cnouyi.pizza
+DOMAIN-SUFFIX,sf-syn.com
+DOMAIN-SUFFIX,ipify.com
+DOMAIN-SUFFIX,rc-backup.com
+DOMAIN-SUFFIX,fpconfig.net
+DOMAIN-SUFFIX,linkey.store
+DOMAIN-SUFFIX,churchofjesuschrist.org
+DOMAIN-SUFFIX,online-metrix.net
 IP-CIDR,216.239.32.0/19,no-resolve
 IP-CIDR,149.88.82.119/32,no-resolve 
 
