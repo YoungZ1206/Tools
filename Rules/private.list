@@ -3,7 +3,6 @@ DOMAIN-SUFFIX,repo.daodao.line.pm
 DOMAIN-SUFFIX,apt.tinyapps.cn
 DOMAIN-SUFFIX,263.net
 DOMAIN-SUFFIX,apt.25mao.com
-DOMAIN-SUFFIX,xns.one
 DOMAIN-SUFFIX,sonkwo.com
 DOMAIN-SUFFIX,120399.xyz
 DOMAIN-SUFFIX,qlogo.cn
@@ -13,6 +12,8 @@ DOMAIN-SUFFIX,qlogo.cn
 DOMAIN-SUFFIX,thing.miniapp.com
 DOMAIN-SUFFIX,sailormoon.tuya.com
 DOMAIN-SUFFIX,api.wsgw-rewrite.com
+DOMAIN-SUFFIX,qidian.com
+DOMAIN-SUFFIX,autonavi.com
 IP-CIDR,8.217.246.48/32,no-resolve
 IP-CIDR,45.249.245.247/32,no-resolve
 IP-CIDR,148.178.21.17/32,no-resolve
