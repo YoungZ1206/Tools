@@ -36,7 +36,7 @@ DOMAIN,win.gdt.qq.com,{{{拦截规则}}}
 DOMAIN,ipv4.gdt.qq.com,{{{拦截规则}}} 
 DOMAIN,v6ii.gdt.qq.com,{{{拦截规则}}} 
 AND, ((PROTOCOL, STUN), (DOMAIN-KEYWORD, bilibili.)), REJECT
-IP-CIDR,17.0.0.0/8,Apple,no-resolve
+IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 DOMAIN,kr.pro.xns.one,SMART-KR
 DOMAIN,us.novaxns.one,SMART-US 
 DOMAIN,sg.kahkee.xns.one,SMART-SG
